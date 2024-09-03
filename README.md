@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadmohammadirad2006
 - 👀 I’m interested in creating dynamic and responsive web applications
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React.js
 - 📫 You can contact me via:
   - **Email**: [ahmadmohammadirad2006@gmail.com](mailto:ahmadmohammadirad2006@gmail.com)
 - ⚡ Fun fact: I love exploring new music and movies, and often draw inspiration from them for my coding projects.
