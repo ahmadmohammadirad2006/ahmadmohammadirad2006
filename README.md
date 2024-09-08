@@ -5,7 +5,7 @@
   - **Email**: [ahmadmohammadirad2006@gmail.com](mailto:ahmadmohammadirad2006@gmail.com)
 - ⚡ Fun fact: I love exploring new music and movies, and often draw inspiration from them for my coding projects.
 ### Languages and Tools I Use
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,mongodb,github,git)
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css,express,mongodb,tailwindcss,sass)
 
 <!---
 ahmadmohammadirad2006/ahmadmohammadirad2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
